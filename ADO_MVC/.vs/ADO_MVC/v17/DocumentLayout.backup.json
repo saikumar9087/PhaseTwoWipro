@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|c:\\users\\pinky\\source\\repos\\ado_mvc\\ado_mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B232671-2E19-4680-9902-1460EF6A4147}|ADO_MVC\\ADO_MVC.csproj|solutionrelative:ado_mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ADO_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Program.cs",
+              "RelativeToolTip": "ADO_MVC\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:06:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "ADO_MVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "ADO_MVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:57:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ADO_MVC\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "ADO_MVC\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:56:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "ADO_MVC\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "ADO_MVC\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:55:28.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ADO_MVC\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "ADO_MVC\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:54:32.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "ADO_MVC\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "ADO_MVC\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:52:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ADO_MVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Models\\Employee.cs",
+              "RelativeToolTip": "ADO_MVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:45:49.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ADO_MVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\pinky\\source\\repos\\ADO_MVC\\ADO_MVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ADO_MVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:43:05.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
